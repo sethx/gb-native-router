@@ -1,15 +1,15 @@
 'use strict';
 
 var React = require('react-native');
-var Animated = require('Animated');
-var Easing = require('Easing');
 
 var NavButton = require('./NavButton');
 
 var {
   StyleSheet,
   Text,
-  View
+  View,
+  Animated,
+  Easing
 } = React;
 
 
